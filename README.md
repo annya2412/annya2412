@@ -15,7 +15,7 @@
 ```python
 ananya = {
     "education"  : "BCA (Data Science) @ IMS UC Ghaziabad — 2nd Year",
- "focus": ["Data Analytics", "Python", "SQL", "Web Development"],
+     "focus": ["Data Analytics", "Python", "SQL", "Web Development"],
     "languages"  : ["Python", "SQL", "JavaScript", "C", "C++"],
     "tools"      : ["Pandas", "NumPy", "SQLite3", "Tkinter", "Canva"],
     "published"  : "ICTDISBP 2026 — Emotional AI & Cognitive Structuring",

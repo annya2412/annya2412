@@ -178,16 +178,6 @@ Translates lifestyle choices into measurable carbon impact. Environmental comple
 
 <br/>
 
-## `◈` &nbsp; GitHub Activity
-
-<br/>
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=annya2412&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annya2412&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
-</div>
 
 
 <br/>

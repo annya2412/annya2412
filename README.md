@@ -24,7 +24,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-e8ddd0?style=flat-square&logo=linkedin&logoColor=8a7060)](https://linkedin.com/in/ananya-pandey)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-e8ddd0?style=flat-square&logo=linkedin&logoColor=8a7060)](https://www.linkedin.com/in/ananya-pandey-0125b43a6/)
 [![Gmail](https://img.shields.io/badge/-pandeyananya073-f0e8de?style=flat-square&logo=gmail&logoColor=8a7060)](mailto:pandeyananya073@gmail.com)&nbsp;
 ![views](https://komarev.com/ghpvc/?username=annya2412&color=d4b896&style=flat-square&label=visitors)
 

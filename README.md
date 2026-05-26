@@ -16,8 +16,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1a2e?style=for-the-badge&logo=linkedin&logoColor=c8b89a)(https://www.linkedin.com/in/ananya-pandey-0125b43a6/)
-[![Gmail](https://img.shields.io/badge/Gmail-%231a1a2e?style=for-the-badge&logo=gmail&logoColor=c8b89a)](mailto:pandeyananya073@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=c8b89a)](https://www.linkedin.com/in/ananya-pandey-0125b43a6/)[![Gmail](https://img.shields.io/badge/Gmail-%231a1a2e?style=for-the-badge&logo=gmail&logoColor=c8b89a)](mailto:pandeyananya073@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%231a1a2e?style=for-the-badge&logo=github&logoColor=c8b89a)](https://github.com/annya2412)
 ![Views](https://komarev.com/ghpvc/?username=annya2412&style=for-the-badge&color=1a1a2e&label=PROFILE+VIEWS)
 

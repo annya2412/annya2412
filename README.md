@@ -16,7 +16,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1a2e?style=for-the-badge&logo=linkedin&logoColor=c8b89a)](https://linkedin.com/in/ananya-pandey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1a2e?style=for-the-badge&logo=linkedin&logoColor=c8b89a)(https://www.linkedin.com/in/ananya-pandey-0125b43a6/)
 [![Gmail](https://img.shields.io/badge/Gmail-%231a1a2e?style=for-the-badge&logo=gmail&logoColor=c8b89a)](mailto:pandeyananya073@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%231a1a2e?style=for-the-badge&logo=github&logoColor=c8b89a)](https://github.com/annya2412)
 ![Views](https://komarev.com/ghpvc/?username=annya2412&style=for-the-badge&color=1a1a2e&label=PROFILE+VIEWS)
@@ -182,14 +182,14 @@ Translates lifestyle choices into measurable carbon impact. Environmental comple
 ## `◈` &nbsp; GitHub Activity
 
 <br/>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=annya2412&show_icons=true&bg_color=1a1a2e&title_color=c8b89a&text_color=e8e0d0&icon_color=8a9e8a&border_color=2a2a4e&rank_icon=percentile&hide=stars&hide_border=false" height="150"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annya2412&layout=compact&bg_color=1a1a2e&title_color=c8b89a&text_color=e8e0d0&border_color=2a2a4e&langs_count=5" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=annya2412&show_icons=true&theme=transparent&title_color=c8b89a&text_color=e8e0d0&icon_color=8a9e8a&border_color=2a2a2a&hide=stars&rank_icon=percentile" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annya2412&layout=compact&theme=transparent&title_color=c8b89a&text_color=e8e0d0&border_color=2a2a2a&langs_count=5" height="150"/>
 
 </div>
+
 
 <br/>
 

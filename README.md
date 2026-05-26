@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=e8e0f0&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f5e6c8,e8d5c4,d4c5b0&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -8,228 +8,217 @@
 
 <br/>
 
-```
-✦  ✦  ✦
-```
+✿ &nbsp; ✦ &nbsp; ✿
 
 <br/>
 
-# Ananya Pandey
+# ananya pandey
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&pause=1200&color=8B7BAB&center=true&vCenter=true&width=520&lines=BCA+Student+%E2%80%94+Data+Science;Python+%26+Machine+Learning;Turning+Data+into+Clarity" alt="Typing SVG" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananya_Pandey-c9b8e8?style=flat-square&logo=linkedin&logoColor=8B7BAB&labelColor=f5f0ff)](https://linkedin.com/in/ananya-pandey)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-pandeyananya073-ddd0f0?style=flat-square&logo=gmail&logoColor=8B7BAB&labelColor=f5f0ff)](mailto:pandeyananya073@gmail.com)&nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=annya2412&color=c9b8e8&style=flat-square&label=profile+views)
+<img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=400&size=18&pause=1400&color=b09070&center=true&vCenter=true&width=480&lines=BCA+Student+%E2%80%94+Data+Science+%F0%9F%8C%BF;Building+with+Python+%26+ML+%E2%9C%A6;Turning+data+into+clarity" alt="Typing SVG" />
 
 <br/>
 
-```
-─────────────────────── ✦ ───────────────────────
-```
+*focused on data, systems, analytics, and thoughtful digital experiences.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-e8ddd0?style=flat-square&logo=linkedin&logoColor=8a7060)](https://linkedin.com/in/ananya-pandey)&nbsp;
+[![Gmail](https://img.shields.io/badge/-pandeyananya073-f0e8de?style=flat-square&logo=gmail&logoColor=8a7060)](mailto:pandeyananya073@gmail.com)&nbsp;
+![views](https://komarev.com/ghpvc/?username=annya2412&color=d4b896&style=flat-square&label=visitors)
 
 <br/>
 
 </div>
 
-## &nbsp;&nbsp;`01` &nbsp; About
+---
+
+<div align="center">✦ &nbsp;&nbsp; ✿ &nbsp;&nbsp; ✦</div>
+
+---
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="58%" valign="top">
-
-&nbsp;&nbsp;&nbsp;&nbsp;**BCA (Data Science)** — IMS UC Ghaziabad, 2nd Year
-
-&nbsp;&nbsp;&nbsp;&nbsp;I sit at the intersection of clean data and meaningful insight.
-&nbsp;&nbsp;&nbsp;&nbsp;Currently building with Python, exploring machine learning,
-&nbsp;&nbsp;&nbsp;&nbsp;and designing tools that are both functional and considered.
-
-&nbsp;&nbsp;&nbsp;&nbsp;Published researcher. Debater. Quiet builder.
+### ༉‧₊˚ about
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Focus areas &nbsp;—**
-&nbsp;&nbsp;&nbsp;&nbsp;Data Analytics &nbsp;·&nbsp; Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Web Development
+> **BCA (Data Science)** — IMS UC Ghaziabad, 2nd Year
 
-</td>
-<td width="4%"></td>
-<td width="38%" valign="top">
-
-```
- Languages          Tools
- ─────────────      ──────────────
- Python             Pandas
- SQL                NumPy
- JavaScript         SQLite3
- C / C++            Tkinter
-                    Canva
-```
-
-</td>
-</tr>
-</table>
+I like building things that make data feel less like noise and more like a story.
+Currently deep in analytics, machine learning, and the occasional side project that gets out of hand.
+Published researcher. Debater. Quietly obsessive about clean systems.
 
 <br/>
 
 ```
-─────────────────────── ✦ ───────────────────────
+  what i'm focused on           languages         tools
+  ──────────────────────         ──────────         ────────────
+  ✿  Data Analytics              Python             Pandas
+  ✿  Python                      SQL                NumPy
+  ✿  SQL                         JavaScript         SQLite3
+  ✿  Web Development             C / C++            Tkinter
+                                                    Canva
 ```
 
 <br/>
 
-## &nbsp;&nbsp;`02` &nbsp; Stack
+---
+
+<div align="center">✦ &nbsp;&nbsp; ✿ &nbsp;&nbsp; ✦</div>
+
+---
+
+<br/>
+
+### ༉‧₊˚ stack
 
 <br/>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-c9b8e8?style=flat-square&logo=python&logoColor=5c4a8a)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-ddd0f0?style=flat-square&logo=postgresql&logoColor=5c4a8a)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-e8e0f5?style=flat-square&logo=javascript&logoColor=5c4a8a)&nbsp;
-![C++](https://img.shields.io/badge/C++-ede8f7?style=flat-square&logo=cplusplus&logoColor=5c4a8a)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-c9b8e8?style=flat-square&logo=pandas&logoColor=5c4a8a)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-ddd0f0?style=flat-square&logo=numpy&logoColor=5c4a8a)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-e8e0f5?style=flat-square&logo=sqlite&logoColor=5c4a8a)&nbsp;
-![Tkinter](https://img.shields.io/badge/Tkinter-ede8f7?style=flat-square&logo=python&logoColor=5c4a8a)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-c9b8e8?style=flat-square&logo=canva&logoColor=5c4a8a)
+![Python](https://img.shields.io/badge/Python-f5ede0?style=flat-square&logo=python&logoColor=8a7060)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-eee4d8?style=flat-square&logo=postgresql&logoColor=8a7060)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-f0e8de?style=flat-square&logo=javascript&logoColor=8a7060)&nbsp;
+![C++](https://img.shields.io/badge/C++-f5ede0?style=flat-square&logo=cplusplus&logoColor=8a7060)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-eee4d8?style=flat-square&logo=pandas&logoColor=8a7060)&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-f0e8de?style=flat-square&logo=numpy&logoColor=8a7060)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-f5ede0?style=flat-square&logo=sqlite&logoColor=8a7060)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-eee4d8?style=flat-square&logo=canva&logoColor=8a7060)
 
 </div>
 
 <br/>
 
-```
-─────────────────────── ✦ ───────────────────────
-```
+---
+
+<div align="center">✦ &nbsp;&nbsp; ✿ &nbsp;&nbsp; ✦</div>
+
+---
 
 <br/>
 
-## &nbsp;&nbsp;`03` &nbsp; Projects
+### ༉‧₊˚ projects
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="16">
-
+<table border="0" cellspacing="0" cellpadding="14">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**Mood Tracker & Wellness Analyzer**
-
-`Python` &nbsp;`Pandas` &nbsp;`Tkinter`
-
-A personal analytics tool that logs emotional states, surfaces mood patterns over time, and gently surfaces insights for self-awareness and wellbeing.
-
-</td>
-
-<td width="33%" valign="top">
-
-**Smart Expense Tracker**
-
-`Python` &nbsp;`SQLite3` &nbsp;`Tkinter`
-
-A clean financial dashboard that categorises spending, visualises budget distribution, and makes personal finance feel effortless and intentional.
-
-</td>
-
-<td width="33%" valign="top">
-
-**Eco Footprint Calculator**
-
-`Python` &nbsp;`Pandas` &nbsp;`JavaScript`
-
-An interactive tool that quantifies individual carbon impact across lifestyle choices, translating complex environmental data into actionable clarity.
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-**Global AI Index**
+🌍 &nbsp; **Global AI Index**
 
 `Python` &nbsp;`Data Visualization` &nbsp;`Analytics` &nbsp;`Research`
 
-A data-driven analytical project exploring global AI readiness, innovation ecosystems, and geopolitical AI development trends through visual storytelling and structured datasets.
+Mapping AI readiness, innovation ecosystems, and geopolitical development trends across countries — through visual storytelling and structured datasets.
 
 </td>
-<td></td>
-<td></td>
-</tr>
+<td width="50%" valign="top">
 
+🌿 &nbsp; **Mood Tracker & Wellness Analyzer**
+
+`Python` &nbsp;`Pandas` &nbsp;`Tkinter`
+
+A personal analytics tool that logs emotional states and surfaces mood patterns over time — quietly building self-awareness through data.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🧾 &nbsp; **Smart Expense Tracker**
+
+`Python` &nbsp;`SQLite3` &nbsp;`Tkinter`
+
+A clean financial dashboard that categorises spending and visualises where money actually goes — making personal finance feel intentional.
+
+</td>
+<td width="50%" valign="top">
+
+🌱 &nbsp; **Eco Footprint Calculator**
+
+`Python` &nbsp;`Pandas` &nbsp;`JavaScript`
+
+Translates lifestyle choices into carbon impact — turning environmental complexity into something clear, personal, and actionable.
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-```
-─────────────────────── ✦ ───────────────────────
-```
+---
+
+<div align="center">✦ &nbsp;&nbsp; ✿ &nbsp;&nbsp; ✦</div>
+
+---
 
 <br/>
 
-## &nbsp;&nbsp;`04` &nbsp; Achievements
+### ༉‧₊˚ a few highlights
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**✦** &nbsp; Research paper published — *ICTDISBP 2026* &nbsp;·&nbsp; Emotional AI & Cognitive Structuring
+&emsp; ✦ &nbsp; Research paper published — **ICTDISBP 2026** &nbsp;·&nbsp; *Emotional AI & Cognitive Structuring*
 
-&nbsp;&nbsp;&nbsp;&nbsp;**✦** &nbsp; 1st Place — Elocution & Debate
+&emsp; ✦ &nbsp; 1st Place — Elocution & Debate
 
-&nbsp;&nbsp;&nbsp;&nbsp;**✦** &nbsp; MUN Participant
-
-<br/>
-
-```
-─────────────────────── ✦ ───────────────────────
-```
+&emsp; ✦ &nbsp; MUN Participant
 
 <br/>
 
-## &nbsp;&nbsp;`05` &nbsp; Currently Working On
+---
+
+<div align="center">✦ &nbsp;&nbsp; ✿ &nbsp;&nbsp; ✦</div>
+
+---
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;`▸` &nbsp; Google Data Analytics Certificate
-
-&nbsp;&nbsp;&nbsp;&nbsp;`▸` &nbsp; Exploratory Data Analysis — Kaggle
-
-&nbsp;&nbsp;&nbsp;&nbsp;`▸` &nbsp; Adding ML predictions to existing projects
-
-&nbsp;&nbsp;&nbsp;&nbsp;`▸` &nbsp; Sentiment Analyzer with NLP
+### ༉‧₊˚ currently
 
 <br/>
 
-```
-─────────────────────── ✦ ───────────────────────
-```
+&emsp; `▸` &nbsp; Google Data Analytics Certificate
+
+&emsp; `▸` &nbsp; Exploratory Data Analysis — Kaggle
+
+&emsp; `▸` &nbsp; Adding ML predictions to existing projects
+
+&emsp; `▸` &nbsp; Sentiment Analyzer with NLP
 
 <br/>
 
-## &nbsp;&nbsp;`06` &nbsp; Stats
+---
+
+<div align="center">✦ &nbsp;&nbsp; ✿ &nbsp;&nbsp; ✦</div>
+
+---
+
+<br/>
+
+### ༉‧₊˚ stats
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=annya2412&show_icons=true&theme=calm&bg_color=f5f0ff&title_color=8B7BAB&text_color=5c4a8a&icon_color=c9b8e8&border_color=e8e0f5&hide_border=false&rank_icon=percentile&hide=stars" height="140"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annya2412&layout=compact&bg_color=f5f0ff&title_color=8B7BAB&text_color=5c4a8a&border_color=e8e0f5&langs_count=5" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api?username=annya2412&show_icons=true&bg_color=fdf8f2&title_color=b09070&text_color=7a6455&icon_color=c9a882&border_color=ecddd0&rank_icon=percentile&hide=stars&hide_border=false" height="140"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annya2412&layout=compact&bg_color=fdf8f2&title_color=b09070&text_color=7a6455&border_color=ecddd0&langs_count=5" height="140"/>
 
 </div>
 
 <br/>
 
-```
-─────────────────────── ✦ ───────────────────────
-```
+---
+
+<div align="center">
 
 <br/>
 
-<div align="center">
+✿ &nbsp; ✦ &nbsp; ✿
 
 <br/>
 
@@ -237,13 +226,10 @@ A data-driven analytical project exploring global AI readiness, innovation ecosy
 
 <br/>
 
-```
-✦  ✦  ✦
-```
+✦ &nbsp;&nbsp; · &nbsp;&nbsp; ✿ &nbsp;&nbsp; · &nbsp;&nbsp; ✦
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=e8e0f0&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f5e6c8,e8d5c4,d4c5b0&height=100&section=footer" width="100%"/>
 
 </div>
-
